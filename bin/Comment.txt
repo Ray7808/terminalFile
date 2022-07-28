@@ -1,0 +1,5 @@
+在~這個路徑的.zshrc要加入以下這行
+export PATH=/Users/wangyu/terminalFile/bin/:$PATH
+
+
+
