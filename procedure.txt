@@ -1,3 +1,10 @@
 這是自己用來安裝nvim和tmux的各個設定。
 可以按照底下兩個資料夾分別安裝，
 這樣就可以使用了。
+
+sf是開啟vimFiler
+^tc是開啟tmux新視窗
+^t,是重新命名tmux視窗
+^+shift+方向左右是切換tmux視窗
+^+T+p或+n也是切換視窗
+^+T+d是關閉tmux
