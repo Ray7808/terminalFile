@@ -1,0 +1,837 @@
+{
+  "coc-python|/Users/wangyu/Desktop/test": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7398832f54dc6038392560b17ad8fb9e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7398832f54dc6038392560b17ad8fb9e": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/wangyu/Desktop/test": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/opt/homebrew/Caskroom/miniconda/base/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab"
+      },
+      "expiry": 1658762639282
+    },
+    "/opt/homebrew/Caskroom/miniconda/base/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "86a952d45f9db31f868bd58910f77b9101e5d30662edfb2579445271e018207a3ac758b27f703c80ead3e12ed39b1fb29fb89af7a319936b7f684c0cf6a1b06d"
+      },
+      "expiry": 1658762639237
+    },
+    "/opt/homebrew/Caskroom/miniconda/base/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "ad279f12ca407960ce770a298aedee3cf71ad8f9a21c5ec7aed39378791142db7e874d2ef49670189310471a3d7ea7cc55fc94942e5458c4846fa16324cdf938"
+      },
+      "expiry": 1658762639220
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "2cf899437b355956d38dca5811565677ee5f6f310fa8223180ad4d8e9f9c3c7da7927f704bbf3cf4aa35005ca6fec3b7791e59556da4625a508a146f764c30b1"
+      },
+      "expiry": 1658762639244
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "2cf899437b355956d38dca5811565677ee5f6f310fa8223180ad4d8e9f9c3c7da7927f704bbf3cf4aa35005ca6fec3b7791e59556da4625a508a146f764c30b1",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "86a952d45f9db31f868bd58910f77b9101e5d30662edfb2579445271e018207a3ac758b27f703c80ead3e12ed39b1fb29fb89af7a319936b7f684c0cf6a1b06d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "ad279f12ca407960ce770a298aedee3cf71ad8f9a21c5ec7aed39378791142db7e874d2ef49670189310471a3d7ea7cc55fc94942e5458c4846fa16324cdf938",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "2cf899437b355956d38dca5811565677ee5f6f310fa8223180ad4d8e9f9c3c7da7927f704bbf3cf4aa35005ca6fec3b7791e59556da4625a508a146f764c30b1",
+        "type": "Unknown"
+      }
+    ],
+    "/Library/Developer/CommandLineTools/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Developer/CommandLineTools/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "bb2c397c9882a3e30fed8cc5d4454f7d18d6f460ed9a527d9d2549eb14a517af68d80df6e21e628020bb67f5c71e3f8b578c2153425868e9cdf98522b5fe135f"
+      },
+      "expiry": 1658762639267
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Library/Developer/CommandLineTools/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "bb2c397c9882a3e30fed8cc5d4454f7d18d6f460ed9a527d9d2549eb14a517af68d80df6e21e628020bb67f5c71e3f8b578c2153425868e9cdf98522b5fe135f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "type": "Unknown"
+    },
+    "/opt/homebrew/Caskroom/miniconda/base/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+          "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/opt/homebrew/Caskroom/miniconda/base",
+          "envName": "base",
+          "cachedEntry": true,
+          "displayName": "Python 3.9.12 64-bit ('base': conda)",
+          "__store": true
+        }
+      },
+      "expiry": 1658762639286
+    },
+    "/opt/homebrew/Caskroom/miniconda/base/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit ('base': virtualenv)",
+        "hash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab-d6e0708ab66ba72f5a28f519f948e0b6"
+      },
+      "expiry": 1658762639288
+    },
+    "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.13-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.13-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+        "fileHash": "e640537a2c48b676ca34645bd608e10a4585e05835d94c4f22b44e311c434af235978de440ec8060991ca188bc1899f566a5133fa7592e5192f5f8aa842f8681"
+      },
+      "expiry": 1658762639313
+    },
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/opt/homebrew/Caskroom/miniconda/base"
+        },
+        {
+          "name": "flask",
+          "path": "/opt/homebrew/Caskroom/miniconda/base/envs/flask"
+        }
+      ]
+    },
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/opt/homebrew/Caskroom/miniconda/base",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.13-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.13-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+        "fileHash": "e640537a2c48b676ca34645bd608e10a4585e05835d94c4f22b44e311c434af235978de440ec8060991ca188bc1899f566a5133fa7592e5192f5f8aa842f8681",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+        "envName": "flask"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/opt/homebrew/Caskroom/miniconda/base",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.13-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.13-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+        "fileHash": "e640537a2c48b676ca34645bd608e10a4585e05835d94c4f22b44e311c434af235978de440ec8060991ca188bc1899f566a5133fa7592e5192f5f8aa842f8681",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+        "envName": "flask"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+        "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/opt/homebrew/Caskroom/miniconda/base",
+        "envName": "base"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.13 64-bit ('flask': conda)",
+        "hash": "e640537a2c48b676ca34645bd608e10a4585e05835d94c4f22b44e311c434af235978de440ec8060991ca188bc1899f566a5133fa7592e5192f5f8aa842f8681-d91928d5a4ae8dea1b70fc1a85785b88"
+      },
+      "expiry": 1658479203442
+    },
+    "/Library/Developer/CommandLineTools/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.9 64-bit",
+        "hash": "bb2c397c9882a3e30fed8cc5d4454f7d18d6f460ed9a527d9d2549eb14a517af68d80df6e21e628020bb67f5c71e3f8b578c2153425868e9cdf98522b5fe135f-1220efe5c5d9056228bd90ee349ec04e"
+      },
+      "expiry": 1658762639315
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.9 64-bit",
+        "hash": "2cf899437b355956d38dca5811565677ee5f6f310fa8223180ad4d8e9f9c3c7da7927f704bbf3cf4aa35005ca6fec3b7791e59556da4625a508a146f764c30b1-b6ecd734cbfd853f1f653589a73bd4d4"
+      },
+      "expiry": 1658762639272
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/opt/homebrew/Caskroom/miniconda/base",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.12 64-bit ('base': conda)"
+    },
+    "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e640537a2c48b676ca34645bd608e10a4585e05835d94c4f22b44e311c434af235978de440ec8060991ca188bc1899f566a5133fa7592e5192f5f8aa842f8681",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/Caskroom/miniconda/base/envs/flask/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.13-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 13,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.13-final"
+          },
+          "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+          "fileHash": "e640537a2c48b676ca34645bd608e10a4585e05835d94c4f22b44e311c434af235978de440ec8060991ca188bc1899f566a5133fa7592e5192f5f8aa842f8681",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/opt/homebrew/Caskroom/miniconda/base/envs/flask",
+          "envName": "flask",
+          "displayName": "Python 3.8.13 64-bit ('flask': conda)"
+        }
+      },
+      "expiry": 1658479203449
+    },
+    "/Library/Developer/CommandLineTools/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bb2c397c9882a3e30fed8cc5d4454f7d18d6f460ed9a527d9d2549eb14a517af68d80df6e21e628020bb67f5c71e3f8b578c2153425868e9cdf98522b5fe135f",
+        "info": {
+          "architecture": 3,
+          "path": "/Library/Developer/CommandLineTools/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.9-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.9-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "bb2c397c9882a3e30fed8cc5d4454f7d18d6f460ed9a527d9d2549eb14a517af68d80df6e21e628020bb67f5c71e3f8b578c2153425868e9cdf98522b5fe135f",
+          "type": "Unknown",
+          "displayName": "Python 3.8.9 64-bit"
+        }
+      },
+      "expiry": 1658762639317
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2cf899437b355956d38dca5811565677ee5f6f310fa8223180ad4d8e9f9c3c7da7927f704bbf3cf4aa35005ca6fec3b7791e59556da4625a508a146f764c30b1",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.9-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.9-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "2cf899437b355956d38dca5811565677ee5f6f310fa8223180ad4d8e9f9c3c7da7927f704bbf3cf4aa35005ca6fec3b7791e59556da4625a508a146f764c30b1",
+          "type": "Unknown",
+          "displayName": "Python 3.8.9 64-bit"
+        }
+      },
+      "expiry": 1658762639278
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/opt/homebrew/Caskroom/miniconda/base",
+      "envName": "base",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.12 64-bit ('base': conda)"
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "ProposeLSBanner": false
+  },
+  "coc-python|/Users/wangyu/Desktop": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d085e53c3296a75c02169e341436e6f5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d085e53c3296a75c02169e341436e6f5": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/wangyu/Desktop": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/wangyu/Desktop/Programmers/PythonFlask": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:0705aeb9d4df583f0c46f4874468b39b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:0705aeb9d4df583f0c46f4874468b39b": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/wangyu/Desktop/Programmers/PythonFlask": {
+      "architecture": 3,
+      "path": "/opt/homebrew/Caskroom/miniconda/base/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/Caskroom/miniconda/base",
+      "fileHash": "a468f7b72586cceafdcaf1b6dc955ab9123fbb8051e9cb1d321f4fc2d2a3b23619bb3e4aed82986a7b080c9985208b0b17dd5eaa61048c87f6555bc7bd61eeab",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

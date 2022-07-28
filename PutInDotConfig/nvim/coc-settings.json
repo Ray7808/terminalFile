@@ -1,0 +1,15 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "javascript",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "javascriptreact",
+        "html",
+        "css"
+    ],
+    "prettier.tabWidth": 4,
+    "prettier.arrowParens": "avoid",
+    "prettier.semi": true,
+    "pretter.disableSuccessMessage": true
+}
