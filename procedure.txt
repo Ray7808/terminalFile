@@ -9,3 +9,7 @@ sf是開啟vimFiler
 ^+T+p或+n也是切換視窗
 ^+T+d是關閉tmux
 ^tq是顯示現在有幾個視窗
+
+
+fish shell指令
+history clear 可以清除history
