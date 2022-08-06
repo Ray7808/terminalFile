@@ -6,10 +6,11 @@
         "json",
         "javascriptreact",
         "html",
-        "css"
+        "css",
+        "c",
+        "cpp"
     ],
     "prettier.tabWidth": 4,
     "prettier.arrowParens": "avoid",
-    "prettier.semi": true,
-    "pretter.disableSuccessMessage": true
+    "prettier.semi": true
 }
