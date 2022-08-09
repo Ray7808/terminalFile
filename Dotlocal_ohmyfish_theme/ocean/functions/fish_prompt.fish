@@ -27,6 +27,7 @@ function fish_prompt
     set -l cyan (set_color cyan)
     set -l white (set_color white)
     set -l black (set_color black)
+    set -l yellow (set_color ffdf00)
     set -l bg_blue (set_color -b blue)
     set -l bg_cyan (set_color -b cyan)
     set -l bg_white (set_color -b white)
@@ -51,9 +52,9 @@ function fish_prompt
 
     # Show a nice anchor (turns red if previous command failed)
     if test $last_status -ne 0
-        echo -n -s $bg_red $white " $__oceanfish_glyph_anchor "  $normal
+        echo -n -s $bg_red $yellow " $__oceanfish_glyph_anchor "  $normal
     else
-        echo -n -s $bg_blue $white " $__oceanfish_glyph_anchor " $normal
+        echo -n -s $bg_blue $yellow " $__oceanfish_glyph_anchor " $normal
     end
 
     if [ "$theme_display_user" = "yes" ]
