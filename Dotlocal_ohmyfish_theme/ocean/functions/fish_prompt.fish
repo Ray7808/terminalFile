@@ -6,7 +6,7 @@
 # set -g theme_display_user yes
 # set -g default_user default_username
 
-set __oceanfish_glyph_anchor \u2693
+set __oceanfish_glyph_anchor \u26a1
 set __oceanfish_glyph_flag \u2691
 set __oceanfish_glyph_radioactive \u2622
 
