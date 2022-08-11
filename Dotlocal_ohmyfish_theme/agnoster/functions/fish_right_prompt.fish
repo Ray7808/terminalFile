@@ -25,7 +25,7 @@ function fish_right_prompt
         echo -n -s $S s
     else
         set_color -b white
-        set_color cyan
+        set_color black
         #echo -n -s $CMD_DURATION ms
         echo -n $CMD_DURATION ms
     end
