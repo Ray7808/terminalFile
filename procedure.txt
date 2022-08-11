@@ -4,6 +4,10 @@
 
 然後看缺啥裝啥
 
+以下這個是設定vim的路徑到neovim，
+之後就可以都用vim開啟
+ln -s (which nvim) /opt/homebrew/bin/vim
+
 這是自己用來安裝nvim和tmux的各個設定。
 可以按照底下兩個資料夾分別安裝，
 這樣就可以使用了。
