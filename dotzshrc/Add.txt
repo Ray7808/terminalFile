@@ -1,0 +1,2 @@
+可以在.zshr裡面加入這行，這樣就可以用vim開啟nvim
+alias vim="nvim"
