@@ -1,3 +1,9 @@
+先安裝brew 然後neovim, tmux, fish 以及 oh my fish
+
+安裝plug nvim的套件
+
+然後看缺啥裝啥
+
 這是自己用來安裝nvim和tmux的各個設定。
 可以按照底下兩個資料夾分別安裝，
 這樣就可以使用了。
