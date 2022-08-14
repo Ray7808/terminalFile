@@ -1,4 +1,5 @@
 先安裝brew 然後neovim, tmux, fish 以及 oh my fish
+以及安裝treesitter 跟luajit(這兩個不確定必不必要)
 
 安裝plug nvim的套件
 
