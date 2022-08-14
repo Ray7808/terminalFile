@@ -13,7 +13,7 @@ function fish_right_prompt
 
     echo -n -s $cwd_color "$cwd"
     set_color --dim
-
+  
     set -l S (math $CMD_DURATION/1000)
     set -l M (math $S/60)
 
@@ -24,15 +24,16 @@ function fish_right_prompt
     else if test $S -gt 1
         echo -n -s $S s
     else
-        set_color -b white
-        set_color black
+        # set_color -b white
+        set_color brwhite
         #echo -n -s $CMD_DURATION ms
         echo -n $CMD_DURATION ms
     end
     set_color normal
   
-  set_color -b white  
-  set_color black
+  # set_color -b white  
+  set_color cyan
   printf '[%s]' (date +%H:%M:%S)
+  # echo '[%s]' (date +%H:%M:%S)
   set_color normal
 end
