@@ -11,7 +11,7 @@
 ├── npm
 ├── typescript-language-server
 └── typescript
-
+還有diagnostic-languageserver
 
 以下這個是設定vim的路徑到neovim，
 之後就可以都用vim開啟
