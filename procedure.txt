@@ -5,6 +5,14 @@
 
 然後看缺啥裝啥
 
+這邊記得裝
+----live-server
+├── nodemon
+├── npm
+├── typescript-language-server
+└── typescript
+
+
 以下這個是設定vim的路徑到neovim，
 之後就可以都用vim開啟
 ln -s (which nvim) /opt/homebrew/bin/vim
