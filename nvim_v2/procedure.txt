@@ -1,0 +1,12 @@
+先安裝brew 然後neovim, fish以及 oh my fish
+
+
+以下這個是設定vim的路徑到neovim(用terminal輸入就可以)，
+可以先用which nvim 來看看具體放在哪
+之後就可以都用vim開啟
+ln -s (which nvim) /opt/homebrew/bin/vim
+
+fish shell指令
+history clear 可以清除history
+或是
+rm ~/.local/share/fish/fish_history
