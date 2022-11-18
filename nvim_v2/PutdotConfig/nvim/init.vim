@@ -27,6 +27,12 @@ set backupskip=/tmp/*,/private/tmp/*
 set tabstop=4
 set shiftwidth=4
 
+" 自己新增的
+set ai "自動對齊縮排
+set smartindent
+set incsearch
+
+
 " format 括號自動對齊
 inoremap {<CR> {<CR>}<Esc>ko
 inoremap ( ()<Esc>i
