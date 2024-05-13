@@ -1,0 +1,14 @@
+brew upgrade
+更新套件的版本，如果你的指令沒有加上特定套件，就是代表把所有你已經安裝過的套件全部更新
+
+brew update
+更新軟體源套件清單，如果有新的 Formula 會在console顯示 (*註二)
+
+brew autoremove
+將不必要的依賴或安裝全清除
+
+Brew cleanup
+清除所有brew的緩存跟快取
+
+brew cleanup --prune=all 
+可以把一堆不必要的快取檔案刪掉

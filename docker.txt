@@ -1,0 +1,2 @@
+簡易版：docker system prune
+徹底版：docker system prune -a

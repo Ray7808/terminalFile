@@ -46,3 +46,5 @@ fish shell指令
 history clear 可以清除history
 或是
 rm ~/.local/share/fish/fish_history
+
+
