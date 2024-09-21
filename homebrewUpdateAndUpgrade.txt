@@ -12,3 +12,9 @@ Brew cleanup
 
 brew cleanup --prune=all 
 可以把一堆不必要的快取檔案刪掉
+
+brew upgrade --cask
+更新所有cask
+
+brew upgrade --cask --greedy
+更新所有沒有版本控制訊息的檔案(像是Edge, adobe reader等等)
